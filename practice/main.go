@@ -18,3 +18,5 @@ func main() {
 	fmt.Println("Number of colors:", len(colors))
 	fmt.Println("Number of numbers:", len(numbers))
 }
+
+// this is my change
